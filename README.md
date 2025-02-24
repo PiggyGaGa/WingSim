@@ -8,11 +8,11 @@ WingSim仿真平台基于开源项目[AirSim](https://github.com/microsoft/AirSi
 
 | **Vehicle** | **image** | **doc** | **note** |
 |---|---|---|---|
-| MultiRotor | ![](./doc/image/multirotor_img.png) |  | Inherit |
-| Car | ![](./doc/image/car_img.png) |  | Inherit |
-| Evtol | ![](./doc/image/evtol_img.jpg) |  | not yet |
-| FixedWing | ![](./doc/image/fixedwing_img.png) |  | <span style="color: red;">New</span> |
-| Robot | ![Go2](./doc/image/robot_go2_img.png) ![Pi](./doc/image/robot_pi_img.png) |  | <span style="color: red;">New</span> |
+| MultiRotor | ![](./docs/image/multirotor_img.png) |  | Inherit |
+| Car | ![](./docs/image/car_img.png) |  | Inherit |
+| Evtol | ![](./docs/image/evtol_img.jpg) |  | not yet |
+| FixedWing | ![](./docs/image/fixedwing_img.png) |  | <span style="color: red;">New</span> |
+| Robot | ![Go2](./docs/image/robot_go2_img.png) ![Pi](./docs/image/robot_pi_img.png) |  | <span style="color: red;">New</span> |
 
 
 ### WingSim设计理念
