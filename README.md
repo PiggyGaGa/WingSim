@@ -65,9 +65,11 @@ WingSim针对不同载具的仿真进行仿真配置，WingSim基于AirSim，所
 - [URDF Robot](./docs/urdf_robot.md) **2025重点维护**
 
 固定翼仿真Demo视频
+
 [![](./docs/image/fixedwing_img.png)](https://www.bilibili.com/video/BV1j2ZNYFEFJ/?vd_source=4f09fe81424e0b139fe8fc7d340052ff)
 
 高擎Pi实现的WingSim仿真的演示视频，演示视频中还未加入物理约束，实现的是静态的关节位置控制
+
 [![](./docs/image/robot_pi_img.png)](https://www.bilibili.com/video/BV1stZNYGEsi/?vd_source=4f09fe81424e0b139fe8fc7d340052ff)
 
 
